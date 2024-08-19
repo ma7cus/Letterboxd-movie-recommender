@@ -1,5 +1,5 @@
 #Files to read in:
-training_data_path = 'personalised_training_data.csv'
+training_data_path = 'training_data.csv'
 user_data_path = 'ratings.csv'
 
 #User ID to append ratings into the training data
